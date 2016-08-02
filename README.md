@@ -17,7 +17,7 @@ dependencies {
 }
 ```
 
-**本项目使用方式**是把生成的 [aar](/aar/custom-actionsheet.aar) 下载并拷贝到主项目的 `libs` 目录，并在配置引用：
+**本项目使用方式**是把生成的 [aar](https://github.com/likfe/One-ActionSheet/raw/master/aar/custom-actionsheet.aar) 下载并拷贝到主项目的 `libs` 目录，并在配置引用：
 
 1.配置项目根目录的 `/build.gradle` ：
 ```groovy
@@ -39,6 +39,7 @@ dependencies {
     ...
 }
 ```
+3.代码使用方法和原项目一致。
 
 ## 对比与预览
 
